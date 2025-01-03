@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## เกี่ยวกับฉัน
 Git รกร้าง~
-
+แนะให้ไปที่นี่ดีกว่า https://github.com/Firoeii
 <!--
 **nullxz/nullxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
